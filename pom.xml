@@ -6,7 +6,6 @@
     <modules>
         <module>trades-processor</module>
         <module>coinapi-trades-adapter</module>
-        <module>spring-cloud-data-flow-dummy</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -16,7 +15,7 @@
     </parent>
     <groupId>de.fabiankrueger</groupId>
     <artifactId>crypto-data-flow</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>crypto-data-flow</name>
     <description>Demo project for Spring Boot</description>
 
